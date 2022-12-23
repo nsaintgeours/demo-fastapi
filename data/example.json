@@ -1,0 +1,13 @@
+{
+  "some_input_field": 42,
+  "some_other_input_field": [
+    {
+      "my_first_field": 3,
+      "my_second_field": "some text"
+    },
+    {
+      "my_first_field": 8,
+      "my_second_field": "other text"
+    }
+  ]
+}
