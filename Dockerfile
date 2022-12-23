@@ -8,6 +8,9 @@ COPY src ./src
 COPY data ./data
 COPY .env ./.env
 
+# Install project sources
+RUN pip install .
+
 # Expose API port
 EXPOSE 80
 

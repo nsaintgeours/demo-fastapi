@@ -68,6 +68,12 @@ pip install --upgrade setuptools
 pip install -r requirements.txt
 ```
 
+- install the project sources:
+
+```sh
+pip install -e .
+```
+
 - launch the REST API on local host with:
 
 ```bash
